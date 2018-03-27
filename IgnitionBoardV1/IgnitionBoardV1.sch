@@ -53,7 +53,7 @@ P 4275 4030
 F 0 "Q1" H 4475 4080 50  0000 L CNN
 F 1 "NMOS" H 4450 4280 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 4475 4130 50  0001 C CNN
-F 3 "" H 4275 4030 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/on-semiconductor/FDP7030BL/FDP7030BLFS-ND/976591" H 4275 4030 50  0001 C CNN
 	1    4275 4030
 	1    0    0    -1  
 $EndComp
@@ -160,7 +160,7 @@ P 5905 4030
 F 0 "Q2" H 6105 4080 50  0000 L CNN
 F 1 "NMOS" H 6125 4280 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 6105 4130 50  0001 C CNN
-F 3 "" H 5905 4030 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/on-semiconductor/FDP7030BL/FDP7030BLFS-ND/976591" H 5905 4030 50  0001 C CNN
 	1    5905 4030
 	1    0    0    -1  
 $EndComp

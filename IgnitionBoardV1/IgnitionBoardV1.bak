@@ -31,7 +31,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:IgnitionBoard-cache
+LIBS:IgnitionBoardV1-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -64,7 +64,7 @@ P 4175 3280
 F 0 "J2" H 4175 3380 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 4300 2955 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" H 4175 3280 50  0001 C CNN
-F 3 "" H 4175 3280 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" H 4175 3280 50  0001 C CNN
 	1    4175 3280
 	-1   0    0    1   
 $EndComp
@@ -75,7 +75,7 @@ P 3375 4130
 F 0 "J1" H 3375 4230 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 3625 3880 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" H 3375 4130 50  0001 C CNN
-F 3 "" H 3375 4130 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" H 3375 4130 50  0001 C CNN
 	1    3375 4130
 	-1   0    0    1   
 $EndComp
@@ -148,7 +148,7 @@ P 5075 4130
 F 0 "J3" H 5075 4230 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 4925 3880 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" H 5075 4130 50  0001 C CNN
-F 3 "" H 5075 4130 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" H 5075 4130 50  0001 C CNN
 	1    5075 4130
 	-1   0    0    1   
 $EndComp
@@ -175,7 +175,7 @@ P 5805 3300
 F 0 "J4" H 5805 3400 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 5655 2950 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" H 5805 3300 50  0001 C CNN
-F 3 "" H 5805 3300 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" H 5805 3300 50  0001 C CNN
 	1    5805 3300
 	-1   0    0    1   
 $EndComp
@@ -230,7 +230,7 @@ P 6865 3480
 F 0 "J5" H 6865 3580 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 7065 3730 50  0001 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" H 6865 3480 50  0001 C CNN
-F 3 "" H 6865 3480 50  0001 C CNN
+F 3 "https://www.digikey.ca/product-detail/en/phoenix-contact/1935161/277-1667-ND/568614" H 6865 3480 50  0001 C CNN
 	1    6865 3480
 	1    0    0    -1  
 $EndComp
